@@ -15,6 +15,6 @@ public class Program {
         String message = scanner.nextLine();
 
         // Print the message written by the user
-        System.out.println(message + " copied your ass");
+        System.out.println(message + " copied your asstesticles");
     }
 }
