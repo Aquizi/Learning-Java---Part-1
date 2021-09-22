@@ -1,4 +1,4 @@
-package com.example.printing;
+package tutorial.printing;
 
 public class Comments {
     public static void main(String[] args) {

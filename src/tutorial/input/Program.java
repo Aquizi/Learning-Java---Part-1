@@ -1,4 +1,4 @@
-package com.example.input;
+package tutorial.input;
 
 import java.util.Scanner;
 

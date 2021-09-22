@@ -1,4 +1,4 @@
-package com.example.printing;
+package tutorial.printing;
 
 public class Ohjelma {
     public static void main(String[] args) {
