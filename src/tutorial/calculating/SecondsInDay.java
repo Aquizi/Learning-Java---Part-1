@@ -2,6 +2,7 @@ package tutorial.calculating;
 import java.util.Scanner;
 
 public class SecondsInDay {
+
     static public void main(String[] args){
 
         Scanner scanner = new Scanner(System.in);
